@@ -1,0 +1,15 @@
+2023-08-06 08:55:54.019920 - Initialized conversion of CBT994
+2023-08-06 08:55:54.138062 - Received CBT.V505.FILE994.PDS from FILE994.XMI 
+2023-08-06 08:55:54.140480 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:55:54.141554 - Found @FILE994.txt (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/@FILE994
+2023-08-06 08:55:54.142482 - Found LISTHEA$.jcl (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/LISTHEA$
+2023-08-06 08:55:54.143482 - Found LISTHEAD.txt (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/LISTHEAD
+2023-08-06 08:55:54.144501 - Found LISTMDD$.jcl (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/LISTMDD$
+2023-08-06 08:55:54.145476 - Found LISTMOD.txt (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/LISTMOD
+2023-08-06 08:55:54.146355 - Found LISTMOD$.jcl (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/LISTMOD$
+2023-08-06 08:55:54.147242 - Found LISTMOD#.jcl (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/LISTMOD#
+2023-08-06 08:55:54.148153 - Found LISTMODD.txt (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/LISTMODD
+2023-08-06 08:55:54.149091 - Found TSOB.rexx (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/TSOB
+2023-08-06 08:55:54.149993 - Found TSOE.rexx (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/TSOE
+2023-08-06 08:55:54.150873 - Found TSOR.rexx (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/TSOR
+2023-08-06 08:55:54.151782 - Found TSOV.rexx (text/plain) in CBT.V505.FILE994.PDS, moved to PDS/TSOV
